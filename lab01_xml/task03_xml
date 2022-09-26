@@ -1,0 +1,30 @@
+<Users>
+<id>"1"</id>
+<name>jhon Doe</name>
+<flat> </flat>
+<house_no>H#38</house_no>
+<road>R#3</road>
+<location>Banani</location>
+<district>Dhaka</district>
+</Users>
+
+
+<Users>
+<id>"2"</id>
+<name>Mark Zuckerberg</name>
+<flat>Flat# A/1</flat>
+<house_no>H#20</house_no>
+<road>R#18</road>
+<location>Mirpur</location>
+<district>Dhaka</district>
+</Users>
+
+<Users>
+<id>"3"</id>
+<name>Ala voski</name>
+<flat></flat>
+<house_no>H#38</house_no>
+<road>R#3</road>
+<location>Mirpur</location>
+<district>Dhaka</district>
+</Users>
